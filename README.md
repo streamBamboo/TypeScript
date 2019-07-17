@@ -1,5 +1,5 @@
 # TypeScript
-TypeScript 笔记
+
 ##TypeScript先全局安装
 ```
 npm install typescript -g
